@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to right, #000000 90%, rgba(0, 0, 0, 0.5));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-size: 3rem;
+}
